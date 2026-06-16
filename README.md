@@ -19,3 +19,7 @@ During the ReAnimate 2026 retro game jam, "Escape from ReAnimate" was selected a
 - Load the `.abk` files into CRVJA using the buttons on the bottom of the screen
 - Copy the code from `game.asc` and paste it into the tool
 - Run it, play, and have fun!
+
+## License
+
+GPL v3 (see LICENSE file for more details).
